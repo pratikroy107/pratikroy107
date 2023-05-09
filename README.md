@@ -1,4 +1,4 @@
-![MasterHead](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)
+![MasterHead](https://imgur.com/XV8qPyF.png)
 
 <br>
 <h1 align="center">Hi there👋, I'm Pratik Roy</h1>
