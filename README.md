@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/XV8qPyF.png)
+![MasterHead](https://i.imgur.com/MuAWdvt.png)
 
 <br>
 <h1 align="center">Hi there👋, I'm Pratik Roy</h1>
