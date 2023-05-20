@@ -72,9 +72,7 @@
 <br><br>
 
 <p align="center">
-  <samp>
-    <i>Thanks for visiting my profile 😃</i> 
-  </samp>
+  <i><b>Thanks for visiting my profile 😃</b></i>
 </p>
 
 <p align="center" width="100%">
