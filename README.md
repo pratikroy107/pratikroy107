@@ -1,4 +1,6 @@
-![MasterHead](https://i.imgur.com/MuAWdvt.png)
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+![banner](https://i.imgur.com/MuAWdvt.png)
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <br>
 <h1 align="center">Hi there👋, I'm Pratik Roy</h1>
