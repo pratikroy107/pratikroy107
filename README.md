@@ -12,11 +12,11 @@
 <br><br>
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/474x/3a/17/df/3a17df0765671202e9557a8628432906.jpg">
 
-- 🔭 Currently pursuing : **B.Tech in IT from Future Institute of Engineering and Management (FIEM), Kolkata**
+- 🔭 Currently pursuing : **M.Tech CSE in NIT Durgapur (2024-2026)**
 
-- 🌱 Currently learning : **Spring Boot & LLD**
+- 🌱 Currently learning : **Data Science & Machine Learning**
 
-- 💬 Ask me about : **Java development , Blockchain development , DSA , Competitive Programming**
+- 💬 Ask me about : **Java Development (Spring Boot & Swing), Blockchain Development, DSA, Competitive Programming**
 
 - ⚡ Fun fact : **I can present bugs as features!😈**
 
