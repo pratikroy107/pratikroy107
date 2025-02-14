@@ -12,7 +12,7 @@
 <br><br>
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/474x/3a/17/df/3a17df0765671202e9557a8628432906.jpg">
 
-- 🔭 Currently pursuing : **M.Tech CSE in NIT Durgapur (2024-2026)**
+- 🔭 Currently pursuing : **M.Tech CSE at NIT Durgapur (2024-2026)**
 
 - 🌱 Currently learning : **Data Science & Machine Learning**
 
